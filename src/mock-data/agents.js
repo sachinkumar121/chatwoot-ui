@@ -1,0 +1,1 @@
+export default {data: {payload: [{id: 1, name: "John", avatar_url: "", availability_status: "online"}]}}
