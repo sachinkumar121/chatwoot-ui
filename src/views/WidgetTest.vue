@@ -1,6 +1,6 @@
 <template></template>
 <script>
-    import '@/chat-bubble-sdk';
+    import '@/chat-bubble-sdk/sdk';
 
     export default {
         name: "WidgetTest",
